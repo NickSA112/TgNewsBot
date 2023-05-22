@@ -1,0 +1,962 @@
+[
+  {
+    "keyword": "Артёмовск",
+    "categoryId": 2
+  },
+  {
+    "keyword": "Бахмут",
+    "categoryId": 2
+  },
+  {
+    "keyword": "Артемовск",
+    "categoryId": 2
+  },
+  {
+    "keyword": "государство",
+    "categoryId": 2
+  },
+  {
+    "keyword": "правительство",
+    "categoryId": 2
+  },
+  {
+    "keyword": "ЧВК",
+    "categoryId": 2
+  },
+  {
+    "keyword": "Вагнер",
+    "categoryId": 2
+  },
+  {
+    "keyword": "Иноагент",
+    "categoryId": 2
+  },
+  {
+    "keyword": "СВО",
+    "categoryId": 2
+  },
+  {
+    "keyword": "войск",
+    "categoryId": 2
+  },
+  {
+    "keyword": "армия",
+    "categoryId": 2
+  },
+  {
+    "keyword": "армии",
+    "categoryId": 2
+  },
+  {
+    "keyword": "Украина",
+    "categoryId": 2
+  },
+  {
+    "keyword": "Украине",
+    "categoryId": 2
+  },
+  {
+    "keyword": "ПВО",
+    "categoryId": 2
+  },
+  {
+    "keyword": "Байден",
+    "categoryId": 2
+  },
+  {
+    "keyword": "Путин",
+    "categoryId": 2
+  },
+  {
+    "keyword": "КНР",
+    "categoryId": 2
+  },
+  {
+    "keyword": "Зеленский",
+    "categoryId": 2
+  },
+  {
+    "keyword": "Специальная военная операция",
+    "categoryId": 2
+  },
+  {
+    "keyword": "военных",
+    "categoryId": 2
+  },
+  {
+    "keyword": "военные",
+    "categoryId": 2
+  },
+  {
+    "keyword": "Пригожин",
+    "categoryId": 2
+  },
+  {
+    "keyword": "полиция",
+    "categoryId": 2
+  },
+  {
+    "keyword": "война",
+    "categoryId": 2
+  },
+  {
+    "keyword": "Киев",
+    "categoryId": 2
+  },
+  {
+    "keyword": "Киеве",
+    "categoryId": 2
+  },
+  {
+    "keyword": "ООН",
+    "categoryId": 2
+  },
+  {
+    "keyword": "политика",
+    "categoryId": 2
+  },
+  {
+    "keyword": "политический",
+    "categoryId": 2
+  },
+  {
+    "keyword": "политическая",
+    "categoryId": 2
+  },
+  {
+    "keyword": "политики",
+    "categoryId": 2
+  },
+  {
+    "keyword": "политикой",
+    "categoryId": 2
+  },
+  {
+    "keyword": "политик",
+    "categoryId": 2
+  },
+  {
+    "keyword": "Кремль",
+    "categoryId": 2
+  },
+  {
+    "keyword": "Кремля",
+    "categoryId": 2
+  },
+  {
+    "keyword": "дипломатия",
+    "categoryId": 2
+  },
+  {
+    "keyword": "право",
+    "categoryId": 2
+  },
+  {
+    "keyword": "конфликт",
+    "categoryId": 2
+  },
+  {
+    "keyword": "безопасность",
+    "categoryId": 2
+  },
+  {
+    "keyword": "территория",
+    "categoryId": 2
+  },
+  {
+    "keyword": "санкции",
+    "categoryId": 2
+  },
+  {
+    "keyword": "экономика",
+    "categoryId": 4
+  },
+  {
+    "keyword": "международный",
+    "categoryId": 2
+  },
+  {
+    "keyword": "международная",
+    "categoryId": 2
+  },
+  {
+    "keyword": "отношения",
+    "categoryId": 2
+  },
+  {
+    "keyword": "выборы",
+    "categoryId": 2
+  },
+  {
+    "keyword": "правительство",
+    "categoryId": 2
+  },
+  {
+    "keyword": "парламент",
+    "categoryId": 2
+  },
+  {
+    "keyword": "президент",
+    "categoryId": 2
+  },
+  {
+    "keyword": "оппозиция",
+    "categoryId": 2
+  },
+  {
+    "keyword": "власть",
+    "categoryId": 2
+  },
+  {
+    "keyword": "власти",
+    "categoryId": 2
+  },
+  {
+    "keyword": "партия",
+    "categoryId": 2
+  },
+  {
+    "keyword": "реформа",
+    "categoryId": 2
+  },
+  {
+    "keyword": "конституция",
+    "categoryId": 2
+  },
+  {
+    "keyword": "демократия",
+    "categoryId": 2
+  },
+  {
+    "keyword": "закон",
+    "categoryId": 2
+  },
+  {
+    "keyword": "правозащита",
+    "categoryId": 2
+  },
+  {
+    "keyword": "коррупция",
+    "categoryId": 2
+  },
+  {
+    "keyword": "обстрел",
+    "categoryId": 2
+  },
+  {
+    "keyword": "обстрелу",
+    "categoryId": 2
+  },
+  {
+    "keyword": "обстреляли",
+    "categoryId": 2
+  },
+  {
+    "keyword": "дипломатия",
+    "categoryId": 2
+  },
+  {
+    "keyword": "международные отношения",
+    "categoryId": 2
+  },
+  {
+    "keyword": "санкции",
+    "categoryId": 2
+  },
+  {
+    "keyword": "санкций",
+    "categoryId": 2
+  },
+  {
+    "keyword": "договор",
+    "categoryId": 2
+  },
+  {
+    "keyword": "соглашение",
+    "categoryId": 2
+  },
+  {
+    "keyword": "советник",
+    "categoryId": 2
+  },
+  {
+    "keyword": "внешняя политика",
+    "categoryId": 2
+  },
+  {
+    "keyword": "конфликт",
+    "categoryId": 2
+  },
+  {
+    "keyword": "территория",
+    "categoryId": 2
+  },
+  {
+    "keyword": "эмиграция",
+    "categoryId": 2
+  },
+  {
+    "keyword": "иммиграция",
+    "categoryId": 2
+  },
+  {
+    "keyword": "беженцы",
+    "categoryId": 2
+  },
+  {
+    "keyword": "граница",
+    "categoryId": 2
+  },
+  {
+    "keyword": "границе",
+    "categoryId": 2
+  },
+  {
+    "keyword": "границу",
+    "categoryId": 2
+  },
+  {
+    "keyword": "виза",
+    "categoryId": 2
+  },
+  {
+    "keyword": "паспорт",
+    "categoryId": 2
+  },
+  {
+    "keyword": "диверсанты",
+    "categoryId": 2
+  },
+  {
+    "keyword": "митинг",
+    "categoryId": 2
+  },
+  {
+    "keyword": "Z",
+    "categoryId": 2
+  },
+  {
+    "keyword": "СБУ",
+    "categoryId": 2
+  },
+  {
+    "keyword": "ВС",
+    "categoryId": 2
+  },
+  {
+    "keyword": "ВСУ",
+    "categoryId": 2
+  },
+  {
+    "keyword": "BBC",
+    "categoryId": 2
+  },
+  {
+    "keyword": "Лавров",
+    "categoryId": 2
+  },
+  {
+    "keyword": "минобороны",
+    "categoryId": 2
+  },
+  {
+    "keyword": "ЕС",
+    "categoryId": 2
+  },
+  {
+    "keyword": "Макрон",
+    "categoryId": 2
+  },
+  {
+    "keyword": "Ливерпуль",
+    "categoryId": 4
+  },
+  {
+    "keyword": "Манчестер Сити",
+    "categoryId": 4
+  },
+  {
+    "keyword": "Челси",
+    "categoryId": 4
+  },
+  {
+    "keyword": "Манчестер Юнайтед",
+    "categoryId": 4
+  },
+  {
+    "keyword": "Тоттенхэм",
+    "categoryId": 4
+  },
+  {
+    "keyword": "Арсенал",
+    "categoryId": 4
+  },
+  {
+    "keyword": "Лестер Сити",
+    "categoryId": 4
+  },
+  {
+    "keyword": "Барселона",
+    "categoryId": 4
+  },
+  {
+    "keyword": "Реал Мадрид",
+    "categoryId": 4
+  },
+  {
+    "keyword": "Атлетико Мадрид",
+    "categoryId": 4
+  },
+  {
+    "keyword": "Севилья",
+    "categoryId": 4
+  },
+  {
+    "keyword": "Валенсия",
+    "categoryId": 4
+  },
+  {
+    "keyword": "Ювентус",
+    "categoryId": 4
+  },
+  {
+    "keyword": "Милан",
+    "categoryId": 4
+  },
+  {
+    "keyword": "Интер Милан",
+    "categoryId": 4
+  },
+  {
+    "keyword": "Наполи",
+    "categoryId": 4
+  },
+  {
+    "keyword": "Рома",
+    "categoryId": 4
+  },
+  {
+    "keyword": "ПСЖ",
+    "categoryId": 4
+  },
+  {
+    "keyword": "Лион",
+    "categoryId": 4
+  },
+  {
+    "keyword": "Марсель",
+    "categoryId": 4
+  },
+  {
+    "keyword": "Монако",
+    "categoryId": 4
+  },
+  {
+    "keyword": "Бавария",
+    "categoryId": 4
+  },
+  {
+    "keyword": "Боруссия Дортмунд",
+    "categoryId": 4
+  },
+  {
+    "keyword": "РБ Лейпциг",
+    "categoryId": 4
+  },
+  {
+    "keyword": "Байер Леверкузен",
+    "categoryId": 4
+  },
+  {
+    "keyword": "Порту",
+    "categoryId": 4
+  },
+  {
+    "keyword": "Бенфика",
+    "categoryId": 4
+  },
+  {
+    "keyword": "Спортинг Лиссабон",
+    "categoryId": 4
+  },
+  {
+    "keyword": "ФК Краснодар",
+    "categoryId": 4
+  },
+  {
+    "keyword": "Зенит",
+    "categoryId": 4
+  },
+  {
+    "keyword": "ЦСКА Москва",
+    "categoryId": 4
+  },
+  {
+    "keyword": "Локомотив Москва",
+    "categoryId": 4
+  },
+  {
+    "keyword": "Спартак Москва",
+    "categoryId": 4
+  },
+  {
+    "keyword": "Футбол",
+    "categoryId": 4
+  },
+  {
+    "keyword": "Баскетбол",
+    "categoryId": 4
+  },
+  {
+    "keyword": "Теннис",
+    "categoryId": 4
+  },
+  {
+    "keyword": "Волейбол",
+    "categoryId": 4
+  },
+  {
+    "keyword": "Хоккей",
+    "categoryId": 4
+  },
+  {
+    "keyword": "Гольф",
+    "categoryId": 4
+  },
+  {
+    "keyword": "Бейсбол",
+    "categoryId": 4
+  },
+  {
+    "keyword": "Автоспорт",
+    "categoryId": 4
+  },
+  {
+    "keyword": "Бокс",
+    "categoryId": 4
+  },
+  {
+    "keyword": "Скейтбординг",
+    "categoryId": 4
+  },
+  {
+    "keyword": "Сноубординг",
+    "categoryId": 4
+  },
+  {
+    "keyword": "Плавание",
+    "categoryId": 4
+  },
+  {
+    "keyword": "Гимнастика",
+    "categoryId": 4
+  },
+  {
+    "keyword": "Легкая атлетика",
+    "categoryId": 4
+  },
+  {
+    "keyword": "Велоспорт",
+    "categoryId": 4
+  },
+  {
+    "keyword": "Борьба",
+    "categoryId": 4
+  },
+  {
+    "keyword": "Биатлон",
+    "categoryId": 4
+  },
+  {
+    "keyword": "Лыжные гонки",
+    "categoryId": 4
+  },
+  {
+    "keyword": "Формула 1",
+    "categoryId": 4
+  },
+  {
+    "keyword": "Шахматы",
+    "categoryId": 4
+  },
+  {
+    "keyword": "Бадминтон",
+    "categoryId": 4
+  },
+  {
+    "keyword": "Регби",
+    "categoryId": 4
+  },
+  {
+    "keyword": "Сноукер",
+    "categoryId": 4
+  },
+  {
+    "keyword": "Скалолазание",
+    "categoryId": 4
+  },
+  {
+    "keyword": "Парусный спорт",
+    "categoryId": 4
+  },
+  {
+    "keyword": "Спортивная гимнастика",
+    "categoryId": 4
+  },
+  {
+    "keyword": "Тяжелая атлетика",
+    "categoryId": 4
+  },
+  {
+    "keyword": "Кёрлинг",
+    "categoryId": 4
+  },
+  {
+    "keyword": "Водное поло",
+    "categoryId": 4
+  },
+  {
+    "keyword": "Прыжки в воду",
+    "categoryId": 4
+  },
+  {
+    "keyword": "Синхронное плавание",
+    "categoryId": 4
+  },
+  {
+    "keyword": "Скелетон",
+    "categoryId": 4
+  },
+  {
+    "keyword": "Конный спорт",
+    "categoryId": 4
+  },
+  {
+    "keyword": "Мотоспорт",
+    "categoryId": 4
+  },
+  {
+    "keyword": "Водные лыжи",
+    "categoryId": 4
+  },
+  {
+    "keyword": "Пауэрлифтинг",
+    "categoryId": 4
+  },
+  {
+    "keyword": "Поло",
+    "categoryId": 4
+  },
+  {
+    "keyword": "Триатлон",
+    "categoryId": 4
+  },
+  {
+    "keyword": "Ушу",
+    "categoryId": 4
+  },
+  {
+    "keyword": "Вольная борьба",
+    "categoryId": 4
+  },
+  {
+    "keyword": "Самбо",
+    "categoryId": 4
+  },
+  {
+    "keyword": "Стрельба",
+    "categoryId": 4
+  },
+  {
+    "keyword": "Дартс",
+    "categoryId": 4
+  },
+  {
+    "keyword": "Сквош",
+    "categoryId": 4
+  },
+  {
+    "keyword": "Прыжки на батуте",
+    "categoryId": 4
+  },
+  {
+    "keyword": "Паркур",
+    "categoryId": 4
+  },
+  {
+    "keyword": "Карате",
+    "categoryId": 4
+  },
+  {
+    "keyword": "Регби-сэвенс",
+    "categoryId": 4
+  },
+  {
+    "keyword": "Крикет",
+    "categoryId": 4
+  },
+  {
+    "keyword": "Фристайл",
+    "categoryId": 4
+  },
+  {
+    "keyword": "Армрестлинг",
+    "categoryId": 4
+  },
+  {
+    "keyword": "Пинг-понг",
+    "categoryId": 4
+  },
+  {
+    "keyword": "Роликовые коньки",
+    "categoryId": 4
+  },
+  {
+    "keyword": "Спортивное ориентирование",
+    "categoryId": 4
+  },
+  {
+    "keyword": "Кикбоксинг",
+    "categoryId": 4
+  },
+  {
+    "keyword": "Скейтпарк",
+    "categoryId": 4
+  },
+  {
+    "keyword": "Спортивная стрельба",
+    "categoryId": 4
+  },
+  {
+    "keyword": "Тхэквондо",
+    "categoryId": 4
+  },
+  {
+    "keyword": "Дзюдо",
+    "categoryId": 4
+  },
+  {
+    "keyword": "Айкидо",
+    "categoryId": 4
+  },
+  {
+    "keyword": "Сноубайк",
+    "categoryId": 4
+  },
+  {
+    "keyword": "Фехтование",
+    "categoryId": 4
+  },
+  {
+    "keyword": "Конькобежный спорт",
+    "categoryId": 4
+  },
+  {
+    "keyword": "Картинг",
+    "categoryId": 4
+  },
+  {
+    "keyword": "Виндсерфинг",
+    "categoryId": 4
+  },
+  {
+    "keyword": "Пляжный волейбол",
+    "categoryId": 4
+  },
+  {
+    "keyword": "Серфинг",
+    "categoryId": 4
+  },
+  {
+    "keyword": "Гребля",
+    "categoryId": 4
+  },
+  {
+    "keyword": "Пауэрбилдинг",
+    "categoryId": 4
+  },
+  {
+    "keyword": "Кроссфит",
+    "categoryId": 4
+  },
+  {
+    "keyword": "Скейтсерфинг",
+    "categoryId": 4
+  },
+  {
+    "keyword": "Кайтсерфинг",
+    "categoryId": 4
+  },
+  {
+    "keyword": "Рукопашный бой",
+    "categoryId": 4
+  },
+  {
+    "keyword": "Скалолазание",
+    "categoryId": 4
+  },
+  {
+    "keyword": "Фигурное катание",
+    "categoryId": 4
+  },
+  {
+    "keyword": "Регби-лиг",
+    "categoryId": 4
+  },
+  {
+    "keyword": "Армрестлинг",
+    "categoryId": 4
+  },
+  {
+    "keyword": "Марафон",
+    "categoryId": 4
+  },
+  {
+    "keyword": "Киберспорт",
+    "categoryId": 4
+  },
+  {
+    "keyword": "фанаты",
+    "categoryId": 4
+  },
+  {
+    "keyword": "фанатов",
+    "categoryId": 4
+  },
+  {
+    "keyword": "ЛЧ",
+    "categoryId": 4
+  },
+  {
+    "keyword": "УЕФА",
+    "categoryId": 4
+  },
+  {
+    "keyword": "тренер",
+    "categoryId": 4
+  },
+  {
+    "keyword": "ЧМ",
+    "categoryId": 4
+  },
+  {
+    "keyword": "сборная",
+    "categoryId": 4
+  },
+  {
+    "keyword": "РПЛ",
+    "categoryId": 4
+  },
+  {
+    "keyword": "Ничья",
+    "categoryId": 4
+  },
+  {
+    "keyword": "Победа",
+    "categoryId": 4
+  },
+  {
+    "keyword": "МЮ",
+    "categoryId": 4
+  },
+  {
+    "keyword": "Победы",
+    "categoryId": 4
+  },
+  {
+    "keyword": "Месси",
+    "categoryId": 4
+  },
+  {
+    "keyword": "Победа",
+    "categoryId": 4
+  },
+  {
+    "keyword": "Лиге Европы",
+    "categoryId": 4
+  },
+  {
+    "keyword": "Ман Сити",
+    "categoryId": 4
+  },
+  {
+    "keyword": "спорт",
+    "categoryId": 4
+  },
+  {
+    "keyword": "ОИ",
+    "categoryId": 4
+  },
+  {
+    "keyword": "футболе",
+    "categoryId": 4
+  },
+  {
+    "keyword": "футбола",
+    "categoryId": 4
+  },
+  {
+    "keyword": "матч",
+    "categoryId": 4
+  },
+  {
+    "keyword": "ЛЕ",
+    "categoryId": 4
+  },
+  {
+    "keyword": "ЛК",
+    "categoryId": 4
+  },
+  {
+    "keyword": "еврокубки",
+    "categoryId": 4
+  },
+  {
+    "keyword": "пенальти",
+    "categoryId": 4
+  },
+  {
+    "keyword": "буллиты",
+    "categoryId": 4
+  },
+  {
+    "keyword": "забил",
+    "categoryId": 4
+  },
+  {
+    "keyword": "UFC",
+    "categoryId": 4
+  },
+  {
+    "keyword": "сбрной",
+    "categoryId": 4
+  },
+  {
+    "keyword": "Новосибирск",
+    "categoryId": 3
+  },
+  {
+    "keyword": "Новосибирской",
+    "categoryId": 3
+  },
+  {
+    "keyword": "Новосибирске",
+    "categoryId": 3
+  },
+  {
+    "keyword": "Новосибирском",
+    "categoryId": 3
+  },
+  {
+    "keyword": "Новосибирска",
+    "categoryId": 3
+  },
+  {
+    "keyword": "Новосибирску",
+    "categoryId": 3
+  },
+  {
+    "keyword": "Новосибирский",
+    "categoryId": 3
+  }
+]
